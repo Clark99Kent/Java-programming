@@ -1,3 +1,20 @@
+/*
+Realizzare un programma che stampi una matrice quadrata (N x N) avente come cornice tutti 0 (Zero).
+Inoltre l'utente dovrà inserire dei valori compresi tra 1 e 10 (Tutti positivi); visualizzandoli infine all'interno 
+della cornice di 0.
+
+Esempio:
+	Matrice: 4 x 4
+
+	0  0  0  0
+
+        0  1  9  0
+
+        0  3  6  0
+
+        0  0  0  0
+*/
+
 import java.util.*;
 import java.io.*;
 
