@@ -6,7 +6,7 @@ della cornice di 0.
 Esempio:
 	Matrice: 4 x 4
 
-	0  0  0  0
+	 0  0  0  0
 
         0  1  9  0
 
