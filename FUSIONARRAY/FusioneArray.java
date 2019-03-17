@@ -5,19 +5,6 @@
   w [ 3, 4, 5, 5 ]
   z [ 1, 2, 3, 4, 5 ]
 */
-
-//PRIMA CLASSE (Counter).
-
-public class Counter {
-	int var;
-	
-	public Counter() {
-		this.var = 0;
-	}
-}
-
-//SECONDA CLASSE (Main) .
-
 import java.util.Scanner;
 
 public class FusioneArray {

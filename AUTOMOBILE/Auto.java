@@ -12,8 +12,7 @@ Esempio di utilizzo:
  auto.guida(100); // guida per 100 km
  double carburanteRimasto = auto.getCarburante(); // quantità di carburante rimasto
  */
- 
- public class Auto {
+public class Auto {
 	
 	private String nome;
 	private String marca;
